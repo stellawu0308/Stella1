@@ -1,4 +1,4 @@
-# Stella2
+# Stella1
 print('籠內動物總隻數?')
 num_animal=input()
 print('籠內動物總腳數?')
